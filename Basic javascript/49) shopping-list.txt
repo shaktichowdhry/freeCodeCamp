@@ -1,0 +1,1 @@
+const myList = [["shakti", 1], ["ritik", 2], ["abhiraj", 1],["priyansh", 4], ["rishabh", 5],["utkarsh", 6]];
